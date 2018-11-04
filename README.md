@@ -142,9 +142,6 @@ Apart from this README, the following text files exist to help new developers:
 * **doc/PORT.md**           
     * This file contains details about how to port applications to use FGPU and how to
     run applications that use FGPU. Including how to use Caffe that is ported to FGPU API.
-* **doc/REVERSE.md**        
-    * This file contains details about how to reverse engineer GPU memory hierarchy.
-    * It also contains details about GPUs that have been reversed engineered.
 * **doc/TEST.md**           
     * This file contains details about how to add new tests and how to run benchmarks.
 
