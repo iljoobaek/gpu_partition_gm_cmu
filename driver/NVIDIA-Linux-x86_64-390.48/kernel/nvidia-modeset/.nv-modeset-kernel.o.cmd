@@ -1,0 +1,1 @@
+cmd_/home/droid/iljoo_work/Fractional-GPUs/driver/NVIDIA-Linux-x86_64-390.48/kernel/nvidia-modeset/nv-modeset-kernel.o := ln -sf /home/droid/iljoo_work/Fractional-GPUs/driver/NVIDIA-Linux-x86_64-390.48/kernel/nvidia-modeset/nv-modeset-kernel.o_binary /home/droid/iljoo_work/Fractional-GPUs/driver/NVIDIA-Linux-x86_64-390.48/kernel/nvidia-modeset/nv-modeset-kernel.o

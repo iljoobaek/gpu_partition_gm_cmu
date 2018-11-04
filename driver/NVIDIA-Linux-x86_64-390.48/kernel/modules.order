@@ -1,0 +1,4 @@
+kernel//home/droid/iljoo_work/Fractional-GPUs/driver/NVIDIA-Linux-x86_64-390.48/kernel/nvidia.ko
+kernel//home/droid/iljoo_work/Fractional-GPUs/driver/NVIDIA-Linux-x86_64-390.48/kernel/nvidia-uvm.ko
+kernel//home/droid/iljoo_work/Fractional-GPUs/driver/NVIDIA-Linux-x86_64-390.48/kernel/nvidia-modeset.ko
+kernel//home/droid/iljoo_work/Fractional-GPUs/driver/NVIDIA-Linux-x86_64-390.48/kernel/nvidia-drm.ko
