@@ -147,5 +147,4 @@ Apart from this README, the following text files exist to help new developers:
     * It also contains details about GPUs that have been reversed engineered.
 * **doc/TEST.md**           
     * This file contains details about how to add new tests and how to run benchmarks.
-* **doc/TODO.md**           
-    * This file contains a wish-list of features/issues to be added/solved.
+
